@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 	"net/http"
-	"receipt-processor/internal/handlers"
-	"receipt-processor/internal/services"
-	"receipt-processor/internal/storage"
+	"receipt-processor-challenge/internal/handlers"
+	"receipt-processor-challenge/internal/services"
+	"receipt-processor-challenge/internal/storage"
 )
 
 func main() {

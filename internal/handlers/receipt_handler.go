@@ -3,9 +3,9 @@ package handlers
 import (
 	"encoding/json"
 	"net/http"
-	"receipt-processor/internal/models"
-	"receipt-processor/internal/services"
-	"receipt-processor/internal/storage"
+	"receipt-processor-challenge/internal/models"
+	"receipt-processor-challenge/internal/services"
+	"receipt-processor-challenge/internal/storage"
 	"strings"
 
 	"github.com/google/uuid"

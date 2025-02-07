@@ -3,7 +3,7 @@ package services
 import (
 	"math"
 	"regexp"
-	"receipt-processor/internal/models"
+	"receipt-processor-challenge/internal/models"
 	"strconv"
 	"strings"
 	"time"
